@@ -1,0 +1,5 @@
+service_name      = "terraform-render-docker"
+render_region     = "frankfurt"
+render_plan       = "starter"
+repository_url    = "https://github.com/geconis/terraform-render-docker"
+repository_branch = "main"
